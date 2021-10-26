@@ -1,0 +1,15 @@
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\obj\Debug\ExAula7Cliente.csproj.AssemblyReference.cache
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\obj\Debug\ExAula7Cliente.Consulta.resources
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\obj\Debug\ExAula7Cliente.Inclusao.resources
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\obj\Debug\ExAula7Cliente.Properties.Resources.resources
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\obj\Debug\ExAula7Cliente.Sobre.resources
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\obj\Debug\ExAula7Cliente.csproj.GenerateResource.cache
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\obj\Debug\ExAula7Cliente.csproj.CoreCompileInputs.cache
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\bin\Debug\data.mdf
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\bin\Debug\data_log.ldf
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\bin\Debug\ExAula7Cliente.exe.config
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\bin\Debug\ExAula7Cliente.exe
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\bin\Debug\ExAula7Cliente.pdb
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\obj\Debug\ExAula7Cliente.Principal.resources
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\obj\Debug\ExAula7Cliente.exe
+C:\Users\AnaDosSantos\Downloads\ExAula7Cliente\ExAula7Cliente\obj\Debug\ExAula7Cliente.pdb

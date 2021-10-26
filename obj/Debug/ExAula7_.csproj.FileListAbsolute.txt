@@ -1,0 +1,15 @@
+C:\Users\User_PC\source\repos\ExAula7_\bin\Debug\ExAula7_.exe.config
+C:\Users\User_PC\source\repos\ExAula7_\bin\Debug\ExAula7_.exe
+C:\Users\User_PC\source\repos\ExAula7_\bin\Debug\ExAula7_.pdb
+C:\Users\User_PC\source\repos\ExAula7_\obj\Debug\ExAula7_.csproj.AssemblyReference.cache
+C:\Users\User_PC\source\repos\ExAula7_\obj\Debug\ExAula7_.Inclusao_Clientes.resources
+C:\Users\User_PC\source\repos\ExAula7_\obj\Debug\ExAula7_.Principal.resources
+C:\Users\User_PC\source\repos\ExAula7_\obj\Debug\ExAula7_.Properties.Resources.resources
+C:\Users\User_PC\source\repos\ExAula7_\obj\Debug\ExAula7_.csproj.GenerateResource.cache
+C:\Users\User_PC\source\repos\ExAula7_\obj\Debug\ExAula7_.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\source\repos\ExAula7_\obj\Debug\ExAula7_.exe
+C:\Users\User_PC\source\repos\ExAula7_\obj\Debug\ExAula7_.pdb
+C:\Users\User_PC\source\repos\ExAula7_\bin\Debug\info.mdf
+C:\Users\User_PC\source\repos\ExAula7_\bin\Debug\info_log.ldf
+C:\Users\User_PC\source\repos\ExAula7_\obj\Debug\ExAula7_.Consulta_Cliente.resources
+C:\Users\User_PC\source\repos\ExAula7_\obj\Debug\ExAula7_.Sobre.resources
